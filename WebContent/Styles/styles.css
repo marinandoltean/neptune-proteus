@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	font-family: verdana;
+	font-size: 1.0em;
+}
+	
+
+div {
+	border:1px solid #888888;
+	padding: 3px;
+	background-color: #eeeeee;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+thead {
+	background-color: rgb(255,128,0);
+}
+
+th {
+	text-align: left;
+}
+
+td {
+	border-bottom:1px solid #888888;
+}
+
+img.resize {
+	max-width: 25%;
+	max-height: 25%;
+}
