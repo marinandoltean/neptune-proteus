@@ -1,3 +1,1 @@
-# Java servlets
-
-SQLite database
+Java servlets, JSP, SQLite, Eclipse, Apache Tomcat 6
