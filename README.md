@@ -1,1 +1,3 @@
-# neptune-proteus
+# Java servlets
+
+SQLite database
